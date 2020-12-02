@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import { Grid } from '@material-ui/core'
 import Data from './Data'
 import { fontWeight, height } from '@material-ui/system';
