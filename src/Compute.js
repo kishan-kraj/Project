@@ -1,5 +1,3 @@
-//https://www.youtube.com/watch?v=NE2UgLd1-2k
-//First install @material-ui/core using npm
 import React, { useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Grid } from '@material-ui/core'
